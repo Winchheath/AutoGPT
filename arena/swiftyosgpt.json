@@ -1,6 +1,6 @@
 {
-    "github_repo_url": "https://github.com/Winchheath/AutoGPT.git",
-    "timestamp": "2023-10-02T23:04:27.944677",
-    "commit_hash_to_benchmark": "062d286c239dc863ede4ad475d7348698722f5fa",
-    "branch_to_benchmark": "master"
+  "name": "swiftyosgpt",
+  "hash": "b88e41f41855e18af3258f3cbadc168683d7f9d8", // Update this with your new commit hash
+  "timestamp": "2023-10-03T12:34:56.789Z" // Update this with the current timestamp
 }
+
